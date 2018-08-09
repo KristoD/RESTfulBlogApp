@@ -1,0 +1,25 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+#edit {
+    float: right;
+}
+
+#delete {
+    display: inline;
+    float: right;
+    margin-left: 1%;
+}
+
+.dateProp {
+    float: right;
+}
+
+#showPost {
+    padding-bottom: 30px;
+}
